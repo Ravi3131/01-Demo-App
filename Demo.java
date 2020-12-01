@@ -1,1 +1,5 @@
-Demo.java
+public class Demo {
+	public void doProceed() {
+	}
+
+}
