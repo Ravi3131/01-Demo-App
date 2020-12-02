@@ -1,5 +1,6 @@
 public class Demo {
-	public void doProceed() {
+	public void doProcess() {
+	//logic comes here....
 	}
 
 }
